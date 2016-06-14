@@ -1,0 +1,15 @@
+galaxy_info:
+  author: Mark Shoger
+  description: Ansible role for Red Hat Gluster nodes
+  company: Red Hat
+  license: Apache 2.0
+  min_ansible_version: 1.9
+  platforms:
+  - name: EL
+    versions:
+    - 7
+  galaxy_tags:
+    - disconnected
+    - gluster
+    - red hat
+dependencies: []
